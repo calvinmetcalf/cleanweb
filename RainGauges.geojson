@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Id": 1, "Name": "Union Park PS" }, "geometry": { "type": "Point", "coordinates": [ -71.066231802800573, 42.339719915237481 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Id": 2, "Name": "Roslindale" }, "geometry": { "type": "Point", "coordinates": [ -71.124969090103491, 42.283627259208728 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Id": 3, "Name": "Dorch-Adams" }, "geometry": { "type": "Point", "coordinates": [ -71.054387934629759, 42.286283500870887 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Id": 4, "Name": "Allston" }, "geometry": { "type": "Point", "coordinates": [ -71.13613936282043, 42.353810608687404 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Id": 5, "Name": "Hyde Park" }, "geometry": { "type": "Point", "coordinates": [ -71.124104401905456, 42.256804793364815 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Id": 6, "Name": "Dorch-Talbot" }, "geometry": { "type": "Point", "coordinates": [ -71.080400872531442, 42.292501152078025 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Id": 7, "Name": "Charlestown" }, "geometry": { "type": "Point", "coordinates": [ -71.057471745984103, 42.376580897959663 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Id": 8, "Name": "Longwood" }, "geometry": { "type": "Point", "coordinates": [ -71.108464441948144, 42.339869382781629 ] } }
+]
+}
